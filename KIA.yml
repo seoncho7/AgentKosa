@@ -1,6 +1,10 @@
 team: KIA
 
+<<<<<<< HEAD
 manager: Biden
+=======
+manager: Trump
+>>>>>>> 5fa19517bb53a64d375203942735a83ea02e02ff
 
 members:
 - 양현종
